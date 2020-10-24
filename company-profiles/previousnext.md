@@ -2,10 +2,23 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+About PreviousNext
 
-If you know something we don't, help us fill it in!  Here's how:
+Founded in 2009, PreviousNext is Australia’s most experienced company specializing in websites built with Drupal, the leading open source Content Management System (CMS) for large-scale websites and applications.
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/previousnext.md)
+## Our Remote Policy
+We consider accepting right people around regional Australia only for remote work at this time.
+
+Our customers tend to be around Major cities in Australia 
+
+Our specialty is in Focused on Drupal (CMS) platform
+
+Our various physical locations
+Sydney: 2.03 / 55 Miller St Pyrmont
+Melbourne: 152 Elizabeth St Melbourne
+Perth: 18/27 Market St Fremantle
+Queensland: L1, 155A Bourbong St Bundaberg
+Beachside: 681 Barrenjoey Rd Avalon Beach
+
+## How to apply
+PreviousNext is always on the lookout for talented people, reach out via  https://www.previousnext.com.au/about/careers/job-application
